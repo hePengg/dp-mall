@@ -23,7 +23,7 @@
     </parent>
 
     <properties>
-        <java.verion>17</java.verion>
+        <java.verion>11</java.verion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring.cloud.version>2021.0.1</spring.cloud.version>
