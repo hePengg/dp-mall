@@ -9,15 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>mall-data-analysis</artifactId>
-
-    <dependencies>
-        <dependency>
-            <groupId>org.elasticsearch.client</groupId>
-            <artifactId>elasticsearch-rest-high-level-client</artifactId>
-            <version>7.15.2</version>
-        </dependency>
-    </dependencies>
+    <artifactId>mall-gw</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>gw</module>
+        <module>gw-helper</module>
+    </modules>
 
     <build>
         <plugins>

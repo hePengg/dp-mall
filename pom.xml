@@ -15,6 +15,7 @@
         <module>mall-data-analysis</module>
         <module>mall-order</module>
         <module>mall-member</module>
+        <module>mall-gw</module>
         <module>mall-admin</module>
     </modules>
 
@@ -29,8 +30,11 @@
         <java.verion>11</java.verion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <spinrg.boot.version>2.6.3</spinrg.boot.version>
         <spring.cloud.version>2021.0.1</spring.cloud.version>
         <spring.cloud.alibaba.version>2021.0.1.0</spring.cloud.alibaba.version>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
     <dependencyManagement>
