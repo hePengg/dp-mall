@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: mall-order
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 175.178.155.158:8848
+        # nacos server endpoint , 用于nacos server 扩所容
+#        endpoint: api-admin-en.tcl.com
+
+server:
+  port: 8081
+
