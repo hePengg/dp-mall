@@ -1,7 +1,7 @@
 # dp-mall
 
 #### 介绍
-商城实战，使用SpringCloud Alibaba相关技术栈
+商城实战
 
 #### 软件架构
 软件架构说明
